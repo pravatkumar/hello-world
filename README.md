@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-This repository is created for test.  
+This repository is created for testing. 
